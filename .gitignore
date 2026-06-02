@@ -1,0 +1,14 @@
+# PPT（按用户要求不上传）
+*.pptx
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.cursor/
+.vscode/
